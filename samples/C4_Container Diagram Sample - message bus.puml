@@ -1,6 +1,6 @@
 @startuml "bigbankplc"
-' !include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Container.puml
-' uncomment the following line and comment the first to use locally
+!include C4.puml
+!include C4_Context.puml
 !include C4_Container.puml
 
 skinparam wrapWidth 200
