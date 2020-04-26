@@ -1,9 +1,6 @@
 @startuml
-!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Dynamic.puml
-' uncomment the following line and comment the first to use locally
-' !include C4_Dynamic.puml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/1.2019.09/C4_Dynamic.puml
 
-' Structurizr.DynamicView: SignIn
 title API Application - Dynamic
 
 LAYOUT_WITH_LEGEND()
