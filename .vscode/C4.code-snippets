@@ -39,7 +39,7 @@
 		"scope": "diagram",
 		"prefix": "Include C4 Dynamic Diagram",
 		"body": [
-			"!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Dynamic.puml",
+			"!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/1.2019.09/C4_Dynamic.puml",
 			"$0"
 		],
 		"description": "Include C4 Dynamic Diagram"
